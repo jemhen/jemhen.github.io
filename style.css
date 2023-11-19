@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html{
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    padding-left: 3;
+    padding-top: 3;
+    padding-bottom: 3;
+    padding-right: 3;
+}
+h1{
+    color:crimson;
+    font-size: 0.7em;
+    align-content: center;
+    }
+/*this is a comment*/
+div{
+    background-color: bisque;
+    color: blue;
+}
+
+#skills-list{
+    list-style: decimal-leading-zero;
+}
+
+#about-description{
+    color: blueviolet;
+    font-style: italic;
+    font-size: 0.7em;
+}
+
+body{
+    background-color: cadetblue;
+    background-image: linear-gradient(62deg, lightblue 0%, lightpink 100%) ;
+}
